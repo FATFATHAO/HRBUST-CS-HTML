@@ -8,16 +8,19 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{02DCA6D8-ED36-43E2-8ACD-F6FB67E7774C}"
 	ProjectSection(SolutionItems) = preProject
 		demo_index.html = demo_index.html
+		demo_login.html = demo_login.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{54A561CF-603B-4350-949E-777152994F4E}"
 	ProjectSection(SolutionItems) = preProject
 		css\StyleSheet1.css = css\StyleSheet1.css
+		css\StyleSheet_Login.css = css\StyleSheet_Login.css
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{6927E3E9-4246-4A34-8A6B-8A6B2F82BB3D}"
 	ProjectSection(SolutionItems) = preProject
 		js\appreport.js = js\appreport.js
+		js\login_submit.js = js\login_submit.js
 		js\mainappreport.js = js\mainappreport.js
 	EndProjectSection
 EndProject
