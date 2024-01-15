@@ -1,0 +1,89 @@
+﻿body
+{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100%;
+    color:black;
+}
+.back
+{
+    position:absolute;
+    /*width:1659.33px;*/
+    width:100%;
+    height:100vh;
+    /*background:red;*/
+    background-image:url(../img/login/qiujing001.jpg);
+    background-position:center;
+    filter:blur(5px);
+}
+.login
+{
+    position:absolute;
+    width:640px;
+    height:480px;
+    background-color:#FFF;
+    /*background-image:url(../img/login/qiujing001.jpg);
+    background-position:51.6% 45%;*/
+    /*left:540px;*/
+    left:32%;
+    top:20%;
+}
+.login-tit>span
+{
+    font-size:34px;
+    max-height:44px;
+    margin-left:180px;
+}
+.login-title
+{
+    position:relative;
+    left:180px;
+    max-width:280px;
+    border-bottom:5px solid #105FA5;
+    margin-bottom:10px;
+}
+.login-title>h3
+{
+    margin-bottom:10px;
+}
+.login-message
+{
+    max-width:280px;
+}
+.user>input
+{
+    position:relative;
+    left:180px;
+    width:272px;
+    height:41px;
+    font-size:16px;
+    margin-bottom:10px;
+}
+.user-button
+{
+    width:280px;
+    height:41px;
+    text-align:center;
+    line-height:41px;
+    background:#105FA5;
+    color:#FFF;
+    position:relative;
+    left:180px;
+}
+.user-button:hover
+{
+    cursor:pointer;
+}
+.login-board
+{
+    position:absolute;
+    bottom:335px;
+    left:110px;
+}
+.passage-board
+{
+    position:absolute;
+    bottom:278px;
+    left:110px;
+}
